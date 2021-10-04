@@ -204,8 +204,8 @@ you can use the generic selector below, but it's slower:
   content: "\e000";
 }
 .dropdown-arrow-inverse {
-  border-bottom-color: #34495e !important;
-  border-top-color: #34495e !important;
+  border-bottom-color: #552424 !important;
+  border-top-color: #180000 !important;
 }
 body {
 	height: 100%;
@@ -213,18 +213,18 @@ body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.72222;
-  color: #34495e;
-  background-color: #ffffff;
+  color: #552424;
+  background-color: #180000;
 }
 a {
-  color: #34495e;
+  color: #552424;
   text-decoration: none;
   -webkit-transition: 0.25s;
   transition: 0.25s;
 }
 a:hover,
 a:focus {
-  color: #34495e;
+  color: #552424e;
   text-decoration: none;
 }
 a:focus {
@@ -280,7 +280,7 @@ h6 small,
 .h4 small,
 .h5 small,
 .h6 small {
-  color: #e7e9ec;
+  color: #552424;
 }
 h1,
 h2,
@@ -319,7 +319,7 @@ p {
   margin: 0 0 15px;
 }
 li{list-style-type:none}
-.white {color:white}
+.white {color:#552424}
 .hidden { visibility: hidden;}
 .lead {
   margin-bottom: 30px;

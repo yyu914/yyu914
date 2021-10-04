@@ -3,7 +3,7 @@ Theme: Flatfy Theme
 Author: Andrea Galanti
 Bootstrap Version 
 Build: 1.0
-http://www.andreagalanti.it
+https://scontent.ftpe2-1.fna.fbcdn.net/v/t1.6435-9/156476814_277665123724992_8031077340894931507_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=llJ42IfDIU4AX9fzCKt&_nc_ht=scontent.ftpe2-1.fna&oh=7b6fdccbb44ab74bf369da5bb8095e3a&oe=61808A10
 */
 
 /*General */
@@ -23,9 +23,9 @@ body, html {
 .abcen1{position: absolute;top: 20%;}
 
 .content-section-c {
-	border-top: 1px solid #32465A;
-	border-bottom: 1px solid #32465A;
-	background-color: #34495e;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #3d0505;
+	background-color: #000000;
 	padding: 90px 0;
 }
 
