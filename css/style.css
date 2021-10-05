@@ -204,7 +204,7 @@ you can use the generic selector below, but it's slower:
   content: "\e000";
 }
 .dropdown-arrow-inverse {
-  border-bottom-color: #552424 !important;
+  border-bottom-color: #7a2b2b !important;
   border-top-color: #180000 !important;
 }
 body {
@@ -213,18 +213,18 @@ body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.72222;
-  color: #552424;
+  color: #7a2b2b;
   background-color: #180000;
 }
 a {
-  color: #552424;
+  color: #7a2b2b;
   text-decoration: none;
   -webkit-transition: 0.25s;
   transition: 0.25s;
 }
 a:hover,
 a:focus {
-  color: #552424e;
+  color: #7a2b2b;
   text-decoration: none;
 }
 a:focus {
@@ -236,8 +236,8 @@ a:focus {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.72222;
-  background-color: #ffffff;
-  border: 2px solid #bdc3c7;
+  background-color: #7a2b2b;
+  border: 2px solid #180000;
   border-radius: 6px;
   -webkit-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
@@ -280,7 +280,7 @@ h6 small,
 .h4 small,
 .h5 small,
 .h6 small {
-  color: #552424;
+  color: #7a2b2b;
 }
 h1,
 h2,
@@ -319,7 +319,7 @@ p {
   margin: 0 0 15px;
 }
 li{list-style-type:none}
-.white {color:#552424}
+.white {color:#7a2b2b}
 .hidden { visibility: hidden;}
 .lead {
   margin-bottom: 30px;
@@ -339,71 +339,70 @@ small,
   line-height: 2.067;
 }
 .text-muted {
-  color: #bdc3c7;
+  color: #7a2b2b;
 }
 .text-inverse {
-  color: #ffffff;
+  color: #7a2b2b;
 }
 .text-primary {
-  color: #1abc9c;
+  color: #7a2b2b;
 }
 a.text-primary:hover {
-  color: #15967d;
+  color: #7a2b2b;
 }
 .text-warning {
-  color: #f1c40f;
+  color: #7a2b2b;
 }
 a.text-warning:hover {
-  color: #c19d0c;
+  color: #7a2b2b;
 }
 .text-danger {
-  color: #e74c3c;
+  color: #7a2b2b;
 }
 a.text-danger:hover {
-  color: #b93d30;
+  color: #7a2b2b;
 }
 .text-success {
-  color: #2ecc71;
+  color: #7a2b2b;
 }
 a.text-success:hover {
-  color: #25a35a;
+  color: #7a2b2b;
 }
 .text-info {
-  color: #3498db;
+  color: #7a2b2b;
 }
 a.text-info:hover {
-  color: #2a7aaf;
+  color: #180000;
 }
 .bg-primary {
-  color: #ffffff;
-  background-color: #34495e;
+  color: #7a2b2b;
+  background-color: #180000;
 }
 a.bg-primary:hover {
-  background-color: #222f3d;
+  background-color: #180000;
 }
 .bg-success {
-  background-color: #dff0d8;
+  background-color: #180000;
 }
 a.bg-success:hover {
-  background-color: #c1e2b3;
+  background-color: #180000;
 }
 .bg-info {
-  background-color: #d9edf7;
+  background-color: #180000;
 }
 a.bg-info:hover {
-  background-color: #afd9ee;
+  background-color: #180000;
 }
 .bg-warning {
-  background-color: #fcf8e3;
+  background-color: #180000;
 }
 a.bg-warning:hover {
-  background-color: #f7ecb5;
+  background-color: #180000;
 }
 .bg-danger {
-  background-color: #f2dede;
+  background-color: #180000;
 }
-a.bg-danger:hover {
-  background-color: #e4b9b9;
+a.bg-danger:hover {#180000;
 }
 .page-header {
   padding-bottom: 14px;
@@ -986,7 +985,7 @@ fieldset[disabled] .btn-link:focus {
 }
 .caret {
   border-width: 8px 6px;
-  border-bottom-color: #34495e;
+  border-bottom-color: #66c42f;
   border-top-color: #34495e;
   border-style: solid;
   border-bottom-style: none;
@@ -1740,7 +1739,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
 }
 .checkbox .icons,
 .radio .icons {
-  color: #bdc3c7;
+  color: #180000;
   display: block;
   height: 20px;
   left: 0;
